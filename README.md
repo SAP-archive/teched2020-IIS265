@@ -20,7 +20,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/IIS265_Hands_On_Part2_BusinessProcessMonitoring.pdf)
+- [Hands-On Part 2: Business Process Monitoring](exercises/ex2/IIS265_Hands_On_Part2_BusinessProcessMonitoring.pdf)
 
 
 **OR** Link to the PDF document stored in your github repo for example...
