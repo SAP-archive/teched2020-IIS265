@@ -1,4 +1,4 @@
-# IIS265 - Process and Integration Monitoring with SAP Cloud ALM for Operations
+# IIS265 - Business Process and Integration Monitoring with SAP Cloud ALM for Operations
 
 ## Description
 
