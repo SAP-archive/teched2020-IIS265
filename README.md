@@ -2,38 +2,39 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called IIS265 - Business Process and Integration Monitoring with SAP Cloud ALM for Operation.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the basics on how to use and configure Business Process Monitoring and Integration Monitoring in SAP Cloud ALM. 
 
-## Requirements
+<!--## Requirements-->
 
-The requirements to follow the exercises in this repository are...
+
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+<!--Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.-->
 
-- [Getting Started](exercises/ex0/)
+<!-- [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)-->
+- [Hands-On Part 1: Integration Monitoring](exercises/ex2/IIS265_Hands_On_Part1_IntegrationMonitoring.pdf)
 - [Hands-On Part 2: Business Process Monitoring](exercises/ex2/IIS265_Hands_On_Part2_BusinessProcessMonitoring.pdf)
 
 
-**OR** Link to the PDF document stored in your github repo for example...
+<!--**OR** Link to the PDF document stored in your github repo for example...-->
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+<!--Start the exercises [here](exercises/myPDFDoc.pdf).-->
     
-**OR** Link to the Tutorial Navigator for example...
+<!--**OR** Link to the Tutorial Navigator for example...-->
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+<!--Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).-->
 
-**IMPORTANT**
+<!--**IMPORTANT**-->
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+<!--Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. -->
 
 ## How to obtain support
 
