@@ -1,5 +1,7 @@
 # IIS265 - Business Process and Integration Monitoring with SAP Cloud ALM for Operations
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS265)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS265)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called IIS265 - Business Process and Integration Monitoring with SAP Cloud ALM for Operation.  
